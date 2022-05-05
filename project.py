@@ -11,10 +11,10 @@ def main():
 	deleted_files_count = 0
 
 	# specify the path
-	path = "c:\\users\Suvidha\downloads\C40"
+	path = "C:\\Users\Suvidha\Desktop\Testing"
 
 	# specify the days
-	days = 30
+	days = 2
 
 	# converting days to seconds
 	# time.time() returns current time in seconds
